@@ -24,6 +24,7 @@
     "@angular2-material/card": "^2.0.0-alpha.5-2",
     "@angular2-material/core": "^2.0.0-alpha.5-2",
     "angular2-in-memory-web-api": "0.0.7",
+    "app-module-path": "^1.1.0",
     "es6-promise": "^3.0.2",
     "es6-shim": "^0.35.0",
     "gulp": "^3.9.1",
